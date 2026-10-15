@@ -4,7 +4,7 @@
 
 Please **do not** open a public issue for security problems.
 
-Email **security@cheapaimodel.com** with:
+Email **support@cheapaimodel.ai** with:
 
 - A description of the issue and its impact
 - Steps to reproduce
